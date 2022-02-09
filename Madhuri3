@@ -1,0 +1,31 @@
+
+
+#program to find the greatest number
+a=int(input("enter the value of a:")
+b=int(input("enter the value of b:")
+print (max (a,b)"is greater")
+
+Enter the value of a = 20
+Enter the value of b =40
+ b is greater
+
+
+
+
+
+
+
+   
+
+  
+
+
+
+
+
+
+
+
+
+
+
